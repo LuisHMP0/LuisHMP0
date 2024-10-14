@@ -1,7 +1,6 @@
 ## Olá, eu sou Luís Henrique Marrocos 👋
 
 📅 Tenho 20 anos! <br>
-🔭 Atualmente estou estagiando na UOL Compass como Desenvolvedor Fullstack <br>
 🌱 Estudando e praticando Node.js <br>
 📚 Cursando Sistemas p/ Internet <br>
 
