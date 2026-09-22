@@ -1,8 +1,8 @@
 ## Olá, eu sou Luís Henrique Marrocos 👋
 
-📅 Tenho 20 anos! <br>
-🌱 Estudando e praticando Node.js <br>
-📚 Cursando Sistemas p/ Internet <br>
+📅 Tenho 22 anos! <br>
+🌱 Desenvolvedor Fullstack <br>
+📚 Graduado em Sistemas p/ Internet <br>
 
 ##
 
